@@ -1,3 +1,3 @@
-# Understanding-Image-Processing
+# Python-Image-Processing
 
-深入了解影像處理
+以 Python 實現影像處理
