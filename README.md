@@ -1,3 +1,3 @@
-# Understanding-OpenCV
+# Understanding-Image-Processing
 
-深入了解 OpenCV
+深入了解影像處理
