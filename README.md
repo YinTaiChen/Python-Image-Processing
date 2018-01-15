@@ -6,7 +6,7 @@
 
 The idea is quite original.
 
-But I'm not sure if I'm the first one to propose such a algorithm.
+But I'm not sure if I'm the first one to propose such an algorithm.
 
 ![danny_segmentation](https://github.com/YinTaiChen/Python-Image-Processing/blob/master/danny_segmentation.gif)
 
